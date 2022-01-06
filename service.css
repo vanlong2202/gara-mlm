@@ -445,6 +445,10 @@ button {
 }
 
 @media only screen and (max-width: 600px) {  
+  .product-wrapper {
+    padding: 50px 30px 0 30px;
+  }
+
   .product-title-wrapper {
     width: 70%;
     font-size: 10px;
